@@ -14,7 +14,7 @@ const blogTheme = getThemeConfig({
   // 友链
   friend: [
     {
-      nickname: 'Symbol',
+      nickname: 'Symbol wzc',
       des: 'have u left',
       avatar: 'https://avatars.githubusercontent.com/u/87292165?v=4',
       url: 'https://github.com/Wzccccc'
@@ -47,8 +47,8 @@ const blogTheme = getThemeConfig({
 export default defineConfig({
   extends: blogTheme,
   lang: 'zh-cn',
-  base: '/base/',
-  title: '@TwoPeopleAndHaHa',
+  base: '/MyBlog/',
+  title: 'TwoPeopleAndHaHa',
   description: 'Er人与黑',
   vite: {
     optimizeDeps: {

@@ -9,8 +9,8 @@ blog:
     # 设置首页列表每页展示数量
   pageSize: 6
 features:
-  - title: 郑坦普尔
-    details: 郑坦普尔
+  - title: ❤ 郑坦普尔 ❤
+    details: ❤ 郑坦普尔 ❤
   - title: Hello Word
     details: Hello Word
   - title: 东子哥的爱心小屋 ❤
