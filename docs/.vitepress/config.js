@@ -23,7 +23,7 @@ const blogTheme = getThemeConfig({
       nickname: '哈哈哈哈密瓜',
       des: '哈哈哈哈密瓜',
       avatar: 'https://avatars.githubusercontent.com/u/87292165?v=4',
-      url: 'https://github.com/Wzccccc'
+      url: 'www.jamesy.cn'
     }
   ],
   recommend: {
@@ -48,7 +48,7 @@ export default defineConfig({
   extends: blogTheme,
   lang: 'zh-cn',
   base: '/MyBlog/',
-  title: 'TwoPeopleAndHaHa',
+  title: '我的个人博客',
   description: 'Er人与黑',
   vite: {
     optimizeDeps: {
