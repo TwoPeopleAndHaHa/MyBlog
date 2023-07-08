@@ -62,7 +62,7 @@ export default defineConfig({
     footer: {
       message: '本博客内容仅供个人学习使用',
       copyright:
-        'GitHub | <a target="_blank" href="https://github.com/TwoPeopleAndHaHa"> @TwoPeopleAndHaHa </a>'
+        'GitHub | <a target="_blank" href="https://github.com/TwoPeopleAndHaHa"> @TwoPeopleAndHaHa </a><br/> <a target="_blank" href="https://beian.miit.gov.cn/"> 鄂ICP备2023011228号-1 </a>'
     },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/TwoPeopleAndHaHa' }]
