@@ -7,7 +7,7 @@ blog:
   inspiring:
     '少睡觉,多看报'
     # 设置首页列表每页展示数量
-  pageSize: 6
+  pageSize: 4
 features:
   - title: ❤ 郑坦普尔 ❤
     details: ❤ 郑坦普尔 ❤
