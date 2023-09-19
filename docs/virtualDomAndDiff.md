@@ -26,7 +26,7 @@ top: 3
 
 ### 简介
 
-​ 简单介绍一下 [snabbdom](https://github.com/snabbdom/snabbdom/blob/master/README-zh_CN.md) 这个 JS 库 , 著名的虚拟 Dom 库 , diff 算法的鼻祖 , Vue 的源码就借鉴了它 .
+ 简单介绍一下 [snabbdom](https://github.com/snabbdom/snabbdom/blob/master/README-zh_CN.md) 这个 JS 库 , 著名的虚拟 Dom 库 , diff 算法的鼻祖 , Vue 的源码就借鉴了它 .
 
 ### 环境准备
 
