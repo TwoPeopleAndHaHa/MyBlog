@@ -47,7 +47,7 @@ const blogTheme = getThemeConfig({
 export default defineConfig({
   extends: blogTheme,
   lang: 'zh-cn',
-  base: '/MyBlog/',
+  base: '/',
   title: '二人与黑',
   description: 'Er人与黑',
   vite: {
